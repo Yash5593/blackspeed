@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/blackspeed/static/css/main.f855e6bc.css",
+    "main.js": "/blackspeed/static/js/main.5fd51c8d.js",
+    "static/js/453.1a16ed4e.chunk.js": "/blackspeed/static/js/453.1a16ed4e.chunk.js",
+    "index.html": "/blackspeed/index.html",
+    "main.f855e6bc.css.map": "/blackspeed/static/css/main.f855e6bc.css.map",
+    "main.5fd51c8d.js.map": "/blackspeed/static/js/main.5fd51c8d.js.map",
+    "453.1a16ed4e.chunk.js.map": "/blackspeed/static/js/453.1a16ed4e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.5fd51c8d.js"
+  ]
+}
